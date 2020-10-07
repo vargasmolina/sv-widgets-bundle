@@ -1,6 +1,7 @@
 # sv-widgets-bundle
 sv-widgets-bundle
 
-                           
-  Pluginspara site-Origin  
-                           
+Coleccion Plugins SiteOrigin Page Builder
+Usar bajo su responsabilidad
+
+https://siteorigin.com/page-builder/
