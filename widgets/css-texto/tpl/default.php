@@ -1,0 +1,1 @@
+<div class="css-texto <?=$instance['custom_css'];?>  "><?=$texto?> </div> 
